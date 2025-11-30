@@ -21,7 +21,7 @@ const EcommerceStore = () => {
 							</a>
 							<a href="#cart">
 								<FaShoppingCart size={20} />
-								<span className="badge">{2}</span>
+								<span className="badge">{5}</span>
 							</a>
 						</div>
 					</div>
