@@ -10,6 +10,7 @@ Monorepo containing both client and server for the AI-powered customer service c
 ## Getting Started
 
 ### Server
+
 ```bash
 cd server
 npm install
@@ -17,6 +18,7 @@ npm run dev
 ```
 
 ### Client
+
 ```bash
 cd client
 npm install
@@ -25,6 +27,6 @@ npm run dev
 
 ## Features
 
-- AI-powered customer service agent
+- AI-powered customer service agent with Gemini 2.5 flash
 - Real-time chat interface
 - E-commerce product integration
